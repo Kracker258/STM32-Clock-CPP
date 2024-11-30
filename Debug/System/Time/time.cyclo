@@ -1,0 +1,2 @@
+../System/Time/time.cpp:5:6:void time::get_time()	1
+../System/Time/time.cpp:27:6:void time::set_time()	1

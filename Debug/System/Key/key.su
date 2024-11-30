@@ -1,0 +1,2 @@
+../System/Key/key.cpp:4:5:key keypad::get_current_key()	8	static
+../System/Key/key.cpp:30:5:key keypad::get_key_pressed()	8	static
